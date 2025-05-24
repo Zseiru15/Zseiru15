@@ -6,7 +6,7 @@
 <img src="BannerZseiru.jpg">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Yoroshiku onegai-shimasu...%E2%99%A5;Self-taught Front-End Developer,;Self-taught Back-End Developer,;Systems Engineer,;Love to learn new stuffs...&hearts;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Yoroshikuonegai-shimasu...%E2%99%A5;Self-taught Front-End Developer,;Self-taught Back-End Developer,;Systems Engineer,;Love to learn new stuffs...&hearts;" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub ⚙️ Analytics&nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
