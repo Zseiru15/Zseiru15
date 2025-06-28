@@ -67,7 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<details close>
+<!-- <details close> -->
 <summary><h1 align="center">🧠 &nbsp;Next Learning&nbsp; 🧠</h1></summary>
 
 <table>
@@ -92,7 +92,7 @@
 
 <h2 align="center">🔧 &nbsp;Tools&nbsp; 🔧</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,docker,postman,dotnet,unity,unreal,androidstudio,discord" width="700" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,docker,postman,dotnet,unity,unreal,androidstudio,discord,solidworks" width="700" />
 
 <h2 align="center">💻 &nbsp;Operating Systems&nbsp; 💻</h2>
 <p align="center">
