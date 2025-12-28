@@ -66,9 +66,6 @@
 <a href="https://github.com/Zseiru15/World-Only-Sex">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Zseiru15&repo=World-Only-Sex&theme=algolia)</a>
 <a href="https://github.com/Zseiru15/Programming-Languages">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Zseiru15&repo=Programming-Languages&theme=algolia)</a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
 <!-- <details close> -->
 <summary><h1 align="center">🧠 &nbsp;Next Learning&nbsp; 🧠</h1></summary>
 
@@ -114,7 +111,142 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,mint,debian,kali,arch,apple"/>
 </p>
 
+<h2 align="center">📋 &nbsp;Technologies&nbsp; 📋</h2>
 
+```mermaid
+flowchart TB
+
+subgraph Languages FrontEnd
+    HTML[HTML]
+    CSS[CSS]
+    JavaScript[JavaScript]
+    TypeScript[TypeScript]
+end
+
+subgraph Frameworks FrontEnd
+    Angular{{Angular}}
+    React{{React}}
+    Vue{{Vue}}
+    Next.js{{Next.js}}
+end
+
+subgraph Frameworks Design
+    Tailwind((Tailwind))
+    Bootstrap((Bootstrap))
+end
+
+subgraph Libraries Design
+    AngularMaterial((Angular Material))
+    MaterialUI((Material-UI))
+end
+
+%% Relaciones
+HTML <--> Angular
+CSS <--> Angular
+JavaScript <--> Angular
+TypeScript <--> Angular
+HTML <--> React
+CSS <--> React
+JavaScript <--> React
+TypeScript <--> React
+HTML <--> Vue
+CSS <--> Vue
+JavaScript <--> Vue
+TypeScript <--> Vue
+HTML <--> Next.js
+CSS <--> Next.js
+JavaScript <--> Next.js
+TypeScript <--> Next.js
+
+%% Diseño
+CSS --> Bootstrap
+CSS --> Tailwind
+CSS --> AngularMaterial
+CSS --> MaterialUI
+
+AngularMaterial --> Angular
+Tailwind --> Angular
+Bootstrap --> Angular
+
+MaterialUI --> Next.js
+Tailwind --> Next.js
+Bootstrap --> Next.js
+
+MaterialUI --> React
+Tailwind --> React
+Bootstrap --> React
+
+MaterialUI --> Vue
+Tailwind --> Vue
+Bootstrap --> Vue
+
+```
+
+
+```mermaid
+flowchart
+fwb1{Django}
+fwb2{NodeJs}
+fwb3{.NET}
+fwb4{GoLand}
+fwb5{Laravel}
+fwn2{{NextJs}}
+lb1[Python]
+lb2[Java]
+lb3[JavaScpit]
+lb4[C++]
+lb5[Go]
+lb6[PHP]
+
+subgraph Language BackEnd
+lb1
+lb2
+lb3
+lb4
+lb5
+lb6
+end
+
+subgraph Framworks BackEnd
+fwb1
+fwb2
+fwb3
+fwb4
+fwb5
+fwn2
+end
+
+fwb1 --> lb1
+fwb2 --> lb2
+fwb2 --> lb3
+fwb3 --> lb4
+fwb4 --> lb5
+fwb5 --> lb6
+fwn2 --> lb2
+fwn2 --> lb3
+```
+
+```mermaid
+flowchart
+dbn1(((MySQL)))
+dbn2(((PostgreSQL)))
+dbn3(((MongoDB)))
+db1[SQL]
+
+subgraph Language DataBase
+db1
+end
+
+subgraph DataBase
+dbn1
+dbn2
+dbn3
+end
+
+dbn1 --> db1
+dbn2 --> db1
+dbn3 --> db1
+```
 
 </table>
 </details>
